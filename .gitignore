@@ -1,0 +1,10 @@
+.sf/
+.sfdx/
+.localdevserver/
+node_modules/
+coverage/
+*.log
+.env
+*.key
+*.pem
+authurl.txt
