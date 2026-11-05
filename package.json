@@ -1,0 +1,12 @@
+{
+  "name": "sf-resilient-rest-integration",
+  "private": true,
+  "scripts": {
+    "format": "prettier --write \"force-app/**/*.{cls,trigger,js,html}\"",
+    "format:check": "prettier --check \"force-app/**/*.{cls,trigger,js,html}\""
+  },
+  "devDependencies": {
+    "prettier": "3.3.3",
+    "prettier-plugin-apex": "2.1.5"
+  }
+}
